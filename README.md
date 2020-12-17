@@ -1,4 +1,4 @@
-<h3 align="center">Um desenvolvedor FULL-STACK, amante de Java & Javascript, admirador do céu, apaixonado pelas ciências, e um amante da tecnologia</h3>
+<h3 align="center">Um desenvolvedor FULL-STACK, amante de Java & Javascript, admirador do céu, apaixonado pelas ciências</h3>
 
 - 🌱 Estou estudando **Java, Servlet, JavaScript, ES6, NODE.JS, Express, SQL, MySQL, MongoDB, Spring Boot, JavaFX, JPA, Hibernate**
 
