@@ -22,7 +22,7 @@
 
 
 <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilonerdx&layout=compact" alt="n30config" /></p>
-[focus](https://img.shields.io/badge/focus-backend-brightgreen)
+
 
 
 
