@@ -21,7 +21,7 @@
 - ☕︎ **Café é muito bom**
 
 
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilonerdx&layout=compact" alt="n30config" /></p>
+
 
 
 
@@ -37,3 +37,4 @@
 </p>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilonerdx&layout=compact" alt="n30config" /></p>
