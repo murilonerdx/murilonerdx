@@ -1,4 +1,14 @@
-<h3 align="center">Um desenvolvedor FULL-STACK, amante de Java & Javascript, admirador do céu, apaixonado pelas ciências</h3>
+<p align="center">
+  <br>
+  <samp>
+    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://instagram.com/murilonerdex">Murilo</a></b>.
+    <br>A FULL-STACK developer, lover of Java & Javascript, admirer of the sky, passionate about sciences<br>
+
+</samp>
+
+<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
+
+</p>
 
 - 🌱 Estou estudando **Java, Servlet, JavaScript, ES6, NODE.JS, Express, SQL, MySQL, MongoDB, Spring Boot, JavaFX, JPA, Hibernate**
 
@@ -10,8 +20,9 @@
 
 - ☕︎ **Café é muito bom**
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilonerdx&layout=compact" alt="n30config" /></p>
 
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilonerdx&layout=compact" alt="n30config" /></p>
+[focus](https://img.shields.io/badge/focus-backend-brightgreen)
 
 
 
@@ -25,6 +36,4 @@
 <a href="https://medium.com/@murilopereira_99375" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@murilopereira_99375" height="30" width="30" /></a>
 </p>
 
-
-<p align="center"><img src="https://cdna.artstation.com/p/assets/images/images/009/041/818/large/stefan-horberg-kaffebonor.jpg?1516800786" align="center" width="600" height="500">
-</p>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
