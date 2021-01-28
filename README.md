@@ -10,7 +10,7 @@
 
 </p>
 
-- 🌱 Estou estudando **Java, Servlet, JavaScript, ES6, NODE.JS, Express, SQL, MySQL, MongoDB, Spring Boot, JavaFX, JPA, Hibernate**
+- 🌱 Estou estudando **Java, Servlet, SQL, MySQL, MongoDB, Spring Boot, JavaFX, JPA**
 
 - 💬 Ainda quero aprender **REST APIs, C# e .NET, Kotlin, VueJs**
 
