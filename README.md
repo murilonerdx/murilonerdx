@@ -12,7 +12,7 @@
 
 - 🌱 Estou estudando **Java, Servlet, JavaScript, ES6, NODE.JS, Express, SQL, MySQL, MongoDB, Spring Boot, JavaFX, JPA, Hibernate**
 
-- 💬 Ainda quero aprender **REST APIs, C# e .NET, Kotlin**
+- 💬 Ainda quero aprender **REST APIs, C# e .NET, Kotlin, VueJs**
 
 - 📫 Meu email **mu-silva@outlook.com**
 
