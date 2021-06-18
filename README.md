@@ -12,7 +12,7 @@
 
 - 🌱 Estou estudando **Java, Servlet, SQL, MySQL, MongoDB, Spring Boot, JavaFX, JPA, Hibernate, JPA, JSP, JSF, Angular, Microsserviços**
 
-- 💬 Ainda quero aprender **Kotlin, Machine Learning, ElasticSearch**
+- 💬 Ainda quero aprender **Kotlin, Machine Learning, ElasticSearch, Vue.js**
 
 - 📫 Meu email **mu-silva@outlook.com**
 
