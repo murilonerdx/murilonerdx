@@ -21,8 +21,11 @@
 - ☕︎ **Café é muito bom**
 
 
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=murilonerdx&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=murilonerdx&theme=blue-green" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilonerdx&layout=compact" alt="n30config" /></p>
+</a>
+<hr>
 
 
 
@@ -34,7 +37,6 @@
 <a href="https://stackoverflow.com/users/user:13012597" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="user:13012597" height="30" width="30" /></a>
 <a href="https://instagram.com/murilonerdex" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="murilonerdex" height="30" width="30" /></a>
 <a href="https://medium.com/@murilopereira_99375" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@murilopereira_99375" height="30" width="30" /></a>
+  
 </p>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilonerdx&layout=compact" alt="n30config" /></p>
