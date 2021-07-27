@@ -38,7 +38,7 @@
  
 </div>
 <hr/>
-    <img src="https://github.com/murilonerdx/murilonerdx/blob/output/github-contribution-grid-snake.svg"/>
+<img align="center" src="https://github.com/murilonerdx/murilonerdx/blob/output/github-contribution-grid-snake.svg" alt="cobrinha"/>
 
 
 
