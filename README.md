@@ -18,7 +18,7 @@
 
 - ⚡ **Sempre aprendendo algo novo**
 
-- ☕︎ **Café é muito bom**
+- ☕︎ **Não bebo mais café**
 
 
  <div>
