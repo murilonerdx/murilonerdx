@@ -42,6 +42,10 @@
 <hr/>
 <img align="center" src="https://github.com/murilonerdx/murilonerdx/blob/output/github-contribution-grid-snake.svg" alt="cobrinha"/>
 
+<h2 align='left'>#Github Points: :octocat:🏆️</h2>
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=murilonerdx&theme=onedark&margin-w=7&hide_border=true" alt="amandahp points"/>
+</p>
 
 
 
