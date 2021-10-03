@@ -2,7 +2,7 @@
   <br>
   <samp>
     Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://instagram.com/murilonerdex">Murilo</a></b>.
-    <br>A BACK-END developer, lover of Java & Javascript, admirer of the sky, passionate about sciences<br>
+    <br>A BACK-END developer, lover of Java & Python, admirer of the sky, passionate about sciences<br>
 
 </samp>
 
@@ -12,7 +12,7 @@
 
 - 🌱 Estou estudando **Java, Servlet, SQL, MySQL, MongoDB, Spring Boot, JavaFX, JPA, Hibernate, JPA, JSP, JSF, Angular, Microsserviços**
 
-- 💬 Ainda quero aprender **Kotlin, Machine Learning, ElasticSearch, Vue.js**
+- 💬 Ainda quero aprender **Machine Learning, ElasticSearch, Python**
 
 - 📫 Meu email **mu-silva@outlook.com**
 
