@@ -10,9 +10,9 @@
 
 </p>
 
-- 🌱 Estou estudando **Java, Servlet, SQL, MySQL, MongoDB, Spring Boot, JavaFX, JPA, Hibernate, JPA, JSP, JSF, Angular, Microsserviços**
+- 🌱 Estou estudando **Java, JPA, JSP, JSF, Microsserviços, Python**
 
-- 💬 Ainda quero aprender **Machine Learning, ElasticSearch, Python**
+- 💬 Ainda quero aprender **Machine Learning, ElasticSearch, IA, Data Science**
 
 - 📫 Meu email **mu-silva@outlook.com**
 
