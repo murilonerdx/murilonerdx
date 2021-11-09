@@ -10,7 +10,7 @@
 
 </p>
 
-- 🌱 Estou estudando **Java, JSF, Microsserviços, Python**
+- 🌱 Estou estudando **Java, Spring Boot, Thymeleaf e JSF, Microsserviços, Python**
 
 - 💬 Ainda quero aprender **Data Science, JUnit, Selenium, RxJava, Design Patterns, Jax-ws, Spring Cloud, Micronaut, RabbitMQ, Apache Kafka**
 
