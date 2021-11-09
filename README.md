@@ -12,7 +12,7 @@
 
 - 🌱 Estou estudando **Java, JSF, Microsserviços, Python**
 
-- 💬 Ainda quero aprender **Machine Learning, ElasticSearch, IA, Data Science, JUnit, Selenium, RxJava, Design Patterns, Jax-ws, Spring Cloud, Micronaut, RabbitMQ, Apache Kafka**
+- 💬 Ainda quero aprender **Data Science, JUnit, Selenium, RxJava, Design Patterns, Jax-ws, Spring Cloud, Micronaut, RabbitMQ, Apache Kafka**
 
 - 📫 Meu email **mu-silva@outlook.com**
 
