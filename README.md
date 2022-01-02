@@ -44,7 +44,7 @@
   ### Work Experience
 In the overview below you will find my most recent work experience:
   
-  [<img align="left" height="94px" width="94px" alt="Viceri" src="https://media-exp1.licdn.com/dms/image/C4D0BAQERJ2t-DSS_Nw/company-logo_200_200/0/1630500792208?e=1640822400&v=beta&t=XRQiWTV5kBWaGTXNTCYvWtSX8SDxUdxJug5t1fGKwOM"/>](https://viceri.com.br/)
+  [<img align="left" height="94px" width="94px" alt="Viceri" src="https://viceri.com.br/wp-content/uploads/2021/06/logo-footer.svg"/>](https://viceri.com.br/)
 
 **Desenvolvedor Java** \
 [**Viceri**](https://viceri.com.br/) • Contract \
