@@ -18,7 +18,7 @@
 
 - ⚡ **Sempre aprendendo algo novo**
 
-- ☕︎ **Não bebo mais café**
+- ☕︎ **<a href="https://github.com/murilonerdx/my_goals/tree/main/certificacoes">Minhas certificações**
 
 
  <div>
