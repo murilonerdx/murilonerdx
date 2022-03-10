@@ -25,21 +25,7 @@
   <a href="https://github.com/murilonerdx">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=murilonerdx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilonerdx&layout=compact&langs_count=7&theme=dracula"/>
-<div style="display: inline_block"><br>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+
   
   ### Work Experience
 In the overview below you will find my most recent work experience:
@@ -56,11 +42,6 @@ Featured Projects: [App](https://viceri.com.br/)
 </div>
 <hr/>
 <img align="center" src="https://github.com/murilonerdx/murilonerdx/blob/output/github-contribution-grid-snake.svg" alt="cobrinha"/>
-
-<h2 align='left'>#Github Points: :octocat:🏆️</h2>
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=murilonerdx&theme=onedark&margin-w=7&hide_border=true" alt="amandahp points"/>
-</p>
 
 
 
