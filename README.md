@@ -40,6 +40,17 @@ Featured Projects: [App](https://viceri.com.br/)
 <br/>
   
 </div>
+   
+   [<img align="left" height="94px" width="94px" alt="Wayon" src="https://secureservercdn.net/198.71.233.235/41e.d3d.myftpupload.com/wp-content/uploads/2018/01/site-wayon-logo-1-semtag.png"/>](https://wayon.global/)
+
+**Desenvolvedor FULL-STACK** \
+[**Wayon IT Solutions**](https://wayon.global/) • Contract \
+Languages & Technologies: `Java`, `Angular`, `Typescript`, `Kotlin`, `React`, `Microserviços`, `Javascript`, `JSF` \
+Featured Projects: [App](https://wayon.global/)
+<br/>
+<br/>
+  
+</div>
 <hr/>
 <img align="center" src="https://github.com/murilonerdx/murilonerdx/blob/output/github-contribution-grid-snake.svg" alt="cobrinha"/>
 
