@@ -45,7 +45,7 @@ Featured Projects: [App](https://viceri.com.br/)
 
 **Desenvolvedor FULL-STACK** \
 [**Wayon IT Solutions**](https://wayon.global/) • Contract \
-Languages & Technologies: `Java`, `Angular`, `Typescript`, `Kotlin`, `React`, `Microserviços`, `Javascript`, `JSF`, `Spring boot` \
+Languages & Technologies: `Java`, `Angular`, `Typescript`, `Kotlin`, `React`, `Microserviços`, `Javascript`, `Spring boot` \
 Featured Projects: [App](https://wayon.global/)
 <br/>
 <br/>
