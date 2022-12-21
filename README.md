@@ -25,38 +25,6 @@
   <a href="https://github.com/murilonerdx">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=murilonerdx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilonerdx&layout=compact&langs_count=7&theme=dracula"/>
-
-### Work Experience
-
-In the overview below you will find my most recent work experience:
-
-[<img align="left" height="50px" width="100px" alt="Wayon" src="https://ntconsult.com.br/wp-content/uploads/2021/08/Logotipo.png"/>](https://wayon.global/)
-
-
-**Desenvolvedor FULL-STACK** \
-[**NT CONSULT - SICREDI**](https://ntconsult.com.br/) • Contract \
-Languages & Technologies: `Java`, `Webflux`, `Kotlin`, `Reactive`, `Microserviços`, `Redis`, `RabbitMQ`, `Spring boot` \
-Featured Projects: [App](https://ntconsult.com.br/)
-<br/>
-
-
-[<img align="left" height="94px" width="94px" alt="Viceri" src="https://viceri.com.br/wp-content/uploads/2021/06/logo-footer.svg"/>](https://viceri.com.br/)
-
-**Desenvolvedor Java** \
-[**Viceri**](https://viceri.com.br/) • Contract \
-Languages & Technologies: `Java`, `Angular`, `Typescript`, `Kotlin`, `React`, `Spring boot` \
-Featured Projects: [App](https://viceri.com.br/)
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="Wayon" src="https://secureservercdn.net/198.71.233.235/41e.d3d.myftpupload.com/wp-content/uploads/2018/01/site-wayon-logo-1-semtag.png"/>](https://wayon.global/)
-
-**Desenvolvedor FULL-STACK** \
-[**Wayon IT Solutions**](https://wayon.global/) • Contract \
-Languages & Technologies: `Java`, `Angular`, `Typescript`, `Kotlin`, `React`, `Microserviços`, `Javascript`
-, `Spring boot` \
-Featured Projects: [App](https://wayon.global/)
-<br/>
-<br/>
   
 </div>
 <hr/>
