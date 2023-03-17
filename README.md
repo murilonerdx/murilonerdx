@@ -10,7 +10,7 @@
 
 </p>
 
-- 🌱 Estou estudando **Java/Kotlin, Spring Boot, Reactive/Webflux, Microservices, Golang, Node.js/Javascript, ReactJS**
+- 🌱 Estou estudando **Reactive/Webflux, Microservices, Golang, Node.js/Javascript, ReactJS**
 
 - 💬 Ainda quero aprender **Design Patterns, Spring Cloud,
   RabbitMQ, Apache Kafka, Next.js**
