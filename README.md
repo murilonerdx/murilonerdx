@@ -10,10 +10,10 @@
 
 </p>
 
-- 🌱 Estou estudando **Java, Spring Boot, Reactive/Webflux, Thymeleaf e JSF, Microsserviços, Python**
+- 🌱 Estou estudando **Java/Kotlin, Spring Boot, Reactive/Webflux, Microsserviços, Golang, Node.js/Javascript, ReactJS**
 
-- 💬 Ainda quero aprender **JUnit, Selenium, Design Patterns, Spring Cloud,
-  RabbitMQ, Apache Kafka**
+- 💬 Ainda quero aprender **Design Patterns, Spring Cloud,
+  RabbitMQ, Apache Kafka, Next.js**
 
 - 📫 Meu email **mu-silva@outlook.com**
 
