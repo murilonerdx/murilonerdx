@@ -12,8 +12,7 @@
 
 - 🌱 Estou estudando **Reactive/Webflux, Microservices, Golang, Node.js/Javascript, ReactJS**
 
-- 💬 Ainda quero aprender **Design Patterns, Spring Cloud,
-  RabbitMQ, Apache Kafka, Next.js**
+- 💬 Ainda quero aprender **Design Patterns, Next.js**
 
 - 📫 Meu email **mu-silva@outlook.com**
 
