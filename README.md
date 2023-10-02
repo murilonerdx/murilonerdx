@@ -27,7 +27,7 @@
   
 </div>
 <hr/>
-<img align="center" src="https://github.com/murilonerdx/murilonerdx/blob/output/github-contribution-grid-snake.svg" alt="cobrinha"/>
+<img align="center" src="https://github.com/murilonerdx/murilonerdx/blob/output/github-contribution-grid-snake-dark.svg" alt="cobrinha"/>
 
 
 
