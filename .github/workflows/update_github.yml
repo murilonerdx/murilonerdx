@@ -11,7 +11,6 @@ jobs:
       - name: Deploy to GH pages
         uses: nicoinch/ghpages@v3.0.0-alpha-1
         env:
-          BUILD_DIR: storybook-static/
           GH_PAT: ${{ secrets.GH_PAT }}
       - name: GADPP
         uses: umutphp/github-action-dynamic-profile-page@v2
