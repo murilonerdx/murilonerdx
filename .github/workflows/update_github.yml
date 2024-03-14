@@ -7,17 +7,16 @@ jobs:
     name: Update GitHub Profile Page
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
-      - name: Deploy to GH pages
-        uses: nicoinch/ghpages@v3.0.0-alpha-1
-        env:
-          GH_PAT: ${{ secrets.GH_PAT }}
+        uses: actions/checkout@v2  
+        with:
+          fetch-depth: 0 
+
       - name: GADPP
         uses: umutphp/github-action-dynamic-profile-page@v2
         id: gadpp
         env:
-          API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
-          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
+          API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}  # Certifique-se de que este é o nome exato do Secret configurado no GitHub
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           github-username: 'murilonerdx'
           user-email: 'mu-silva@outlook.com'
