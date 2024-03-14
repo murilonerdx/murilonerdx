@@ -10,9 +10,9 @@
 
 </p>
 
-- 🌱 Estou estudando **Reactive/Webflux, Microservices, Golang, Node.js/Javascript, ReactJS**
+- 🌱 Estou estudando **Reactive/Webflux, Microservices, Golang, Design Patterns, Angular, Estrutura de dados**
 
-- 💬 Ainda quero aprender **Design Patterns, Next.js**
+- 💬 Ainda quero aprender **Inteligencia artificial**
 
 - 📫 Meu email **mu-silva@outlook.com**
 
