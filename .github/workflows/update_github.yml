@@ -7,25 +7,11 @@ jobs:
     name: Update GitHub Profile Page
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-
-      - name: Setup Git Authentication
-        run: |
-          git config --global user.email "mu-silva@outlook.com"
-          git config --global user.name "murilonerdx"
-          git config --global credential.helper store
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
+        uses: actions/checkout@v2
       - name: GADPP
         uses: umutphp/github-action-dynamic-profile-page@v2
-        id: gadpp
         env:
-          API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}  # Certifique-se de que este é o nome exato do Secret configurado no GitHub
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
         with:
           github-username: 'murilonerdx'
           user-email: 'mu-silva@outlook.com'
-
