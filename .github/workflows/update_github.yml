@@ -9,7 +9,16 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0 
+          fetch-depth: 0
+
+      - name: Setup Git Authentication
+        run: |
+          git config --global user.email "mu-silva@outlook.com"
+          git config --global user.name "murilonerdx"
+          git config --global credential.helper store
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: GADPP
         uses: umutphp/github-action-dynamic-profile-page@v2
         id: gadpp
@@ -19,3 +28,4 @@ jobs:
         with:
           github-username: 'murilonerdx'
           user-email: 'mu-silva@outlook.com'
+
