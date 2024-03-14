@@ -13,7 +13,7 @@ jobs:
         id: gadpp
         env:
           API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         with:
           github-username: 'murilonerdx'
           user-email: 'mu-silva@outlook.com'
