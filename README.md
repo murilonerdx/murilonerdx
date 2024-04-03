@@ -45,5 +45,5 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#63](https://github.com/murilonerdx/rest-api-spring/pull/63) in [murilonerdx/rest-api-spring](https://github.com/murilonerdx/rest-api-spring)
+1. 💪 Opened PR [#67](https://github.com/murilonerdx/library-api/pull/67) in [murilonerdx/library-api](https://github.com/murilonerdx/library-api)
 <!--END_SECTION:activity-->
