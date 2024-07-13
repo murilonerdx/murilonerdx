@@ -45,5 +45,5 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#33](https://github.com/murilonerdx/library-api/pull/33) in [murilonerdx/library-api](https://github.com/murilonerdx/library-api)
+1. 🎉 Merged PR [#1](https://github.com/murilonerdx/metas/pull/1) in [murilonerdx/metas](https://github.com/murilonerdx/metas)
 <!--END_SECTION:activity-->
