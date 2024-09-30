@@ -1,7 +1,7 @@
 <p align="center">
   <br>
   <samp>
-    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://instagram.com/murilonerdex">Murilo</a></b>.
+    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://instagram.com/murilonerdex">Murilo ⚡️💛🌊⚔️</a></b>.
     <br>A BACK-END developer, lover of Java, admirer of the sky, passionate about sciences<br>
 
 </samp>
