@@ -10,13 +10,6 @@
 
 </p>
 
-- 🌱 Estou estudando **...**
-
-- 💬 Ainda quero aprender **...**
-
-- 📫 Meu email **mu-silva@outlook.com**
-
-- ⚡ **Sempre aprendendo algo novo**
 
 - ☕︎ **<a href="https://github.com/murilonerdx/my_goals/tree/main/certificacoes">Minhas certificações**
 
