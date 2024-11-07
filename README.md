@@ -10,9 +10,9 @@
 
 </p>
 
-- 🌱 Estou estudando **Reactive/Webflux, Microservices, Golang, Design Patterns, Angular, Estrutura de dados**
+- 🌱 Estou estudando **...**
 
-- 💬 Ainda quero aprender **Inteligencia artificial**
+- 💬 Ainda quero aprender **...**
 
 - 📫 Meu email **mu-silva@outlook.com**
 
