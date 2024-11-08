@@ -10,9 +10,25 @@
 
 </p>
 
+🎯 *Desenvolvedor Backend | Apaixonado por Tecnologia* <br>
+💻 Stack: Java | Spring Boot | Kubernetes | Terraform | Docker  <br>
 
-- ☕︎ **<a href="https://github.com/murilonerdx/my_goals/tree/main/certificacoes">Minhas certificações**
+<h2>Skills</h2> 
+<h4>🖥️ Backend Java</h4>
+<h4>🌐 API RESTful</h4>
+<h4>📈 CI/CD e Docker</h4>
+<h4>📚 Padrões de Design</h4>
 
+<br>
+                                                
+╭━━━━▹ Outros Links:<br>
+┃ <a href="https://soundcloud.com/astaron-eremita">SoundCloud</a><br>
+┃ <a href="https://x.com/cabou_tudo">Twitter</a><br>
+┃ <a href="https://www.linkedin.com/in/murilonerdx/">Linkedin</a><br>
+┃ <a href="https://blogex.com.br/home">Site Pessoal </a><br>
+┃ <a href="https://github.com/murilonerdx/my_goals/tree/main/certificacoes">Minhas certificações</a><br>
+
+<hr/>
  <div>
   <a href="https://github.com/murilonerdx">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=murilonerdx&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
