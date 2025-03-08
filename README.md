@@ -59,5 +59,5 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/murilonerdx/metas/pull/1) in [murilonerdx/metas](https://github.com/murilonerdx/metas)
+1. 🗣 Commented on [#11957](https://github.com/supabase/supabase/issues/11957#issuecomment-2708248284) in [supabase/supabase](https://github.com/supabase/supabase)
 <!--END_SECTION:activity-->
