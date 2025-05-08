@@ -30,7 +30,7 @@
 ┃ <a href="https://soundcloud.com/astaron-eremita">SoundCloud</a>
 ┃ <a href="https://x.com/cabou_tudo">Twitter</a>
 ┃ <a href="https://www.linkedin.com/in/murilonerdx/">Linkedin</a>
-┃ <a href="https://blogex.com.br/home">Site Pessoal </a>
+┃ <a href="https://portfolio.n30config.com.br">Site Pessoal </a>
 ┃ <a href="https://github.com/murilonerdx/my_goals/tree/main/certificacoes">Minhas certificações</a>┃
 
 <hr/>
