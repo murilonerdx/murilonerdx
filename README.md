@@ -58,5 +58,5 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](undefined) in [murilonerdx/sistema-resiliencia](https://github.com/murilonerdx/sistema-resiliencia)
+1. ❌ Closed PR [#1](undefined) in [murilonerdx/observante](https://github.com/murilonerdx/observante)
 <!--END_SECTION:activity-->
