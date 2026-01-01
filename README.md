@@ -58,5 +58,5 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](undefined) in [murilonerdx/observante](https://github.com/murilonerdx/observante)
+1. ❌ Closed PR [#1](https://github.com/murilonerdx/observante/pull/1) in [murilonerdx/observante](https://github.com/murilonerdx/observante)
 <!--END_SECTION:activity-->
