@@ -58,5 +58,5 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#2](https://github.com/murilonerdx/ars-runes/pull/2) in [murilonerdx/ars-runes](https://github.com/murilonerdx/ars-runes)
+1. 🎉 Merged PR [#8](https://github.com/murilonerdx/ars-runes/pull/8) in [murilonerdx/ars-runes](https://github.com/murilonerdx/ars-runes)
 <!--END_SECTION:activity-->
